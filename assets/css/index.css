@@ -1,0 +1,40 @@
+.layui-footer {
+  text-align: center;
+}
+
+.layui-nav-item .layui-icon {
+  margin: 0 15px;
+}
+.layui-nav-item .iconfont {
+  margin: 0 5px 0 15px;
+}
+.userinfo {
+  height: 60px;
+  display: block;
+  line-height: 60px;
+  text-align: center;
+  border-bottom: 1px solid #000;
+}
+.text-avatar {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  background-color: #009688;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 50%;
+  color: white;
+}
+.layui-nav > .layui-nav-item > .a {
+  color: white;
+}
+
+.welcome {
+  display: inline-block;
+  color: white;
+  margin-left: 10px;
+  font-size: 12px;
+}
+.layui-body {
+  overflow: hidden;
+}
